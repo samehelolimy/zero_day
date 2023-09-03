@@ -1,1 +1,2 @@
-i am not using sandbox and every thing is ok
+#!/bin/bash
+i am not using sandbox and every thing is okk
